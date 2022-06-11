@@ -4,7 +4,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/bibek376/Postgres)](https://github.com/bibek376/Postgres/issues)
 [![GitHub stars](https://img.shields.io/github/stars/bibek376/Postgres)](https://github.com/bibek376/Postgres/stargazers)
 # Research_And_Development
-This Repo. contain R&D about different topic.
+This Repo. Contain R&D About Different Topic.
 
 
 
