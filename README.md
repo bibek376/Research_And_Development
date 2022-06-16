@@ -5,7 +5,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/bibek376/Research_And_Development)](https://github.com/bibek376/Research_And_Development/stargazers)
 # Research_And_Development
 This Repo. Contain R&D About Different Topic.
-
+<br>
+i. Continous Archiving And Point In Time Recovery
 
 
 # Feedback
